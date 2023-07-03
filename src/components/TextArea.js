@@ -74,7 +74,7 @@ console.log(result);
                 </div>
                 <button type="button " onClick={handleUpchange} className="btn btn-primary mx-3">CAPITALIZE</button>
                 <button type="button " onClick={handleLOchange} className="btn btn-primary mx-3">LOWER CASE</button>
-                <button type="button " onClick={handleClear} className="btn btn-primary mx-3">Clear Screen</button>
+                <button type="button " onClick={handleClear} className="btn btn-primary mx-3 my-3">Clear Screen</button>
             </div>
             <div className='container my-3'>
                 <h1 className={` text-${props.mode==="light"?"black":"white"}`}>Your Text Summary</h1>
