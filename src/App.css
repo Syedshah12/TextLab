@@ -2,6 +2,17 @@
   text-align: center;
 }
 
+.heading{
+  font-size: 30px;
+}
+
+#textArea{
+  font-size: 30px;
+  min-height: 100%;
+}
+.navbar{
+  font-size: 22px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
